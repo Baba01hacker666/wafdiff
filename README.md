@@ -19,7 +19,7 @@ pip install wafdiff
 ```
 Or from source:
 ```bash
-git clone https://github.com/baba01hacker/wafdiff.git
+git clone https://github.com/Baba01hacker666/wafdiff.git
 cd wafdiff
 pip install .
 ```
