@@ -7,7 +7,7 @@ setup(
     description="WAF inconsistency detector and payload differ",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/Baba01hacker666/wafdiff",
+    url="https://github.com/baba01hacker/wafdiff",
     packages=find_packages(),
     install_requires=[
         "requests",
